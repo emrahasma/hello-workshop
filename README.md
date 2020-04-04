@@ -6,4 +6,4 @@ here are my favorite games
 
 2.**hello neighbor**
 
-(http://google.com)
+[Onur link](http://google.com)
